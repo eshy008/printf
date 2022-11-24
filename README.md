@@ -5,7 +5,8 @@ DESCRIPTION
 
 This project is aimed at encouraging collaboration, thus it is a team project.
 
-The printf function sends formatted output to stdout.In this project, a custom printf for lesarning puirposes was build by ALX-SE students- EUNICE and AMANI of cohort 10._printf() function format string is a character string, beginning and ending in its initial shift state, if any. These arguments are placed using the percentage '%' operator.
+The printf function sends formatted output to stdout.In this project, a custom printf for lesarning puirposes was build by ALX-SE students- EKEMINI OKON and JOHN IFOGA of cohort 10.
+_printf() function format string is a character string, beginning and ending in its initial shift state, if any. These arguments are placed using the percentage '%' operator.
 
 RESOURCES Secrets of printf by Thomas Samuel: https://www.academia.edu/10297206/Secrets_of_printf_
 
@@ -13,7 +14,8 @@ AUTHORISED FUNCTIONS AND MACROS
 
 write (man 2 write) malloc (man 3 malloc) free (man 3 free) va_start (man 3 va_start) va_end (man 3 va_end) va_copy (man 3 va_copy) va_arg (man 3 va_arg)
 
-Compilation Code will be compiled this way: $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c We strongly encourage you to work all together on a set of tests If the task does not specify what to do with an edge case, do the same as printf The main files will include your main header file (main.h): #include main.h
+Compilation Code will be compiled this using; $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c 
+We strongly encourage you to work all together on a set of tests If the task does not specify what to do with an edge case, do the same as printf The main files will include your main header file (main.h): #include main.h
 
 USE AND EXAMPLES
 
